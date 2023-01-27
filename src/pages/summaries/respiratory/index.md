@@ -23,7 +23,7 @@
 ### Adult Health Nursing
 - Chapter 9 Care of the Patient With a Respiratory Disorder
     - [x] Anatomy and Physiology of the Respiratory System
-    - [ ] Assessment of the Respiratory System
+    - [x] Assessment of the Respiratory System
     - [ ] Laboratory and Diagnostic Examinations
     - [ ] Nursing Process for the Patient With a Respiratory Disorder
 ### Pharmacology
