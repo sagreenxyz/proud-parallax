@@ -9,3 +9,4 @@
 |[HESI Comprehensive Review for the NCLEX-PN Examination](/proud-parallax/textbooks/HESI/)|5th|Elsevier|978-0-323-42933-7|
 |[NCLEX-PN Examination](/proud-parallax/textbooks/Silvestri/)|7th|Silvestri and Silvestri|978-0-323-48488-6|
 ---
+Scott Was Here
