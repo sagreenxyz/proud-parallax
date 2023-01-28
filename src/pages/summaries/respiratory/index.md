@@ -29,7 +29,7 @@
 ### Pharmacology
 - Chapter 29 Drugs Used to Treat Upper Respiratory Disease
     - [x] Upper Respiratory Tract Anatomy and Physiology
-    - [ ] Common Upper Respiratory Diseases
+    - [x] Common Upper Respiratory Diseases
     - [ ] Treatment of Upper Respiratory Diseases
     - [ ] Drug Therapy for Upper Respiratory Diseases
     - [ ] Get Ready for the NCLEX@ Examination!
@@ -84,8 +84,7 @@
     - otitis media - infection of the middle ear (vestibule)
     - conjunctivitis = watery eyes
 ---
-## Summary
----
+## Adult Health Nursing
 ### Anatomy and Physiology
 - external respiration - breathing; exchange of oxygen and carbon dioxide between lungs and environment.
 - respiratory system works with cardiovascular system to circulate oxygen and carbon dioxide.
@@ -281,3 +280,82 @@
 - bronchiectasis
 ---
 ### Nursing Process for the Patient with a Respiratory Disorder
+---
+## Pharmacology
+### Drugs Used to Treat Upper Respiratory Disease
+#### Upper Respiratory Tract Anatomy and Physiology
+- nose
+    -functions (olfactory and respiratory)
+- turbinates - increase surface area; dense with blood vessels - warms and humidifies air
+- sinuses
+    - goblet cells produce mucus
+    - cilia in posterior two-thirds of nasal passages, sweep mucus towards nasopharynx and pharynx (expectorated or swallowed)
+- nasopharynx
+- pharynx
+- tonsils
+- Eustachian tubes
+- larynx
+- innervated by autonomic nervous system
+    - cholinergic stimulation - vasodilation, secretory glands producing mucous and serous secretions
+    - sympathetic (alpha-adrenergic) stimulation - vasoconstriction
+- paranasal sinuses
+- pharyngeal tonsils (lymphoid); known as adenoids when enlarged
+    - immunoglobulins for defense of upper airway
+- sneezing - physiologic reflex to clear nasal passages
+- coughing - physiologic reflex to clear lower respiratory airway
+#### Common Upper Respiratory Diseases
+- rhinitis
+    - inflammation of the nasal mucous membranes
+    - sneezing, nasal discharge, nasal congestion
+    - acute or chronic based on duration of signs and symptoms
+    - acute
+        - common cold (viral infection - rhinoviruses and coronaviruses are most common cause)
+            - nasal congestion
+                - engorgement of nasal blood vessels
+                - swelling of nasal turbinates
+                - pharyngitis - mildly sore (sratchy) throat
+                - laryngitis - hoarseness
+                - headache, malaise, chills, fever
+            - complications
+                - bacterial sinusitis
+                - otitis media (vestibule infection)
+        - bacterial infection
+        - foreign body
+        - rhinitis medicamentosa - drug-induced congestion
+    - chronic
+        - allergic rhinitis
+            - allergic reaction from previous exposure of allergens (antigen detection) and antibody development
+            - histamine release
+                - reacts with histamine-1 (H<sub>1</sub> receptors)
+                    - arterioles and capillaries in region dialate - edematous
+                    - capillaries become more permeable; extracellular fluid accumulation - edema
+                    - nasal (rhinirrhea), lacrimal (conjunctivitis), and bronchial secretions
+                    - pruitis of palate, ears, and eyes
+                    - can trigger acute asthma attacks for those with asthma
+                - severe allergic reactions
+                    - extensive arteriolar dilation
+                    - hypotension
+                    - flushed and edematous skin
+                    - urticaria (hives)
+                    - broncial constriction and possible spasms
+                    - dyspnea
+                    - copius amounts of pulmonary secretions
+                    - copius amounts of gastric secretions
+            - seasonal or perennial (year-round)
+                - treatment is symptomatic
+                - treatment can be prophylactic
+                - without treatment
+                    - thickening of mucosal epithelium
+                    - loss of cilia
+                    - loss of smell
+                    - recurrent sinusitis
+                    - recurrent otitis media
+                    - growth of connective tissue
+                    - development of nasal or sinus polyps
+                        - aggravate rhinitis
+                        - secondary infections
+        - nonallergic perenial rhinitis
+        - chronic sinusitis
+        - deviated septum
+    - rhinitis medicamentosa
+        - overuse of topical decongestants causing rebounding nasal secretions
