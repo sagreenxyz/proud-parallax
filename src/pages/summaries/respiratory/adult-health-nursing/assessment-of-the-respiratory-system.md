@@ -1,0 +1,47 @@
+# Assessment of the Respiratory System
+- dyspnea
+    - difficulty breathing
+    - subjective observation from patient
+        - onset
+        - duration
+        - precipitating factors
+        - relief measures (positioning, medications)
+        - cough
+            - productive or nonproductive
+            - harsh
+            - dry
+            - hacking
+            - expectoration
+                - color
+                - amount
+                - consistency
+    - objective data
+        - observations
+            - respiratory rate
+            - oxygen saturation
+            - patient's expressions (fear of suffocation)
+            - chest movements
+                - equal expansion (unequal could be collapsed lung)
+                - retractions on inspiration (late stage respiratory distress)
+            - nasal flaring (late sign of respiratory distress)
+            - skin color and turgor
+            - see Adult Health Nursing, Table 9-1 Adventitious Breath Sounds (page 775, location 16032)
+            - orthopnea
+            - see Adult Health Nursing, Box 9-1 Signs and Symptoms of Hypoxia (page 775, location 16032)
+                - apprehension
+                - anxiety
+                - restlessness
+                - inability to concentrate
+                - disorientation
+                - decreased level of consciousness
+                - increased fatigue
+                - vertigo
+                - behavioral changes
+                - bradycardia
+                - increased rate and depth of respirations (becomes shallow and slowed as hypoxia progresses)
+                - elevated blood pressure (becomes lowered blood pressure)
+                - cardiac dysrhythmias
+                - pallor
+                - cyanosis (may not be present until hypoxia advances)
+                - clubbing
+                - dyspnea

@@ -1,0 +1,20 @@
+# Disorders of the Lower Airway
+- acute bronchitis
+- legionnaires' disease
+- severe acute respiratory syndrome
+- anthrax
+- tuberculosis
+- pneumonia
+- pleurisy
+- pleural effusion and empyema
+- atelectasis
+- pneumothorax
+- cancer of the lung
+- pulmonary edema
+- pulmonary embolism
+- acute respiratory distress syndrome
+- chronic obstructive pulmonary disease
+    - emphysema
+    - chronic bronchitis
+    - asthma
+- bronchiectasis

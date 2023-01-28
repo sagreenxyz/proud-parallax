@@ -1,0 +1,79 @@
+# Anatomy and Physiology
+- external respiration - breathing; exchange of oxygen and carbon dioxide between lungs and environment.
+- respiratory system works with cardiovascular system to circulate oxygen and carbon dioxide.
+- oxygen necessary for metabolism
+- gases diffuse across cell membranes (passive transport)
+- upper respiratory tract
+    - nasal cavity
+        - nose (air filtered, moistened, warmed)
+            - nares - nasal openings
+            - septum - separates nares
+            - mucousa - warms, moistens air; secretes 1L moisture per day; smell receptors (Cranial Nerve I - Olfactory Nerve)
+        - nasal turbinates and conchae - larger surface area (warming and moistening); cilia (filtering); nasolacrimal ducts communicate with upper chamber
+        - paranasal sinuses (voice resonance); [sinusitis]()
+            - frontal
+            - maxillary
+            - sphenoid
+            - ethmoid
+    - pharynx (throat); passage of air and food
+        - nasopharynx (superior); eustachian tubes communicate with nasopharynx (to middle ear - vestibule)
+            - pharungeal tonsils (adenoids)
+        - oropharynx (posterior to mouth)
+            - palatine tonsils
+        - laryngopharynx (superior to larynx)
+    - larynx
+        - thyroid cartilage (Adam's apple; two fused cartilage plates)
+        - cricoid cartilage
+        - tracheal lumen
+        - epiglottis - leaf-shaped cartilage protects larynx when swallowing
+        - vocal cords
+            - glottis - opening between vocal cords
+        - trachea (anterior to esophagus)
+            - C-shaped cartilaginous rings (open part is posterior to allow esophagus to expand); maintains airway patency; cilia sweep upwards (superior direction)
+            - tracheotomy to create tracheostomy for indwelling tube
+                - below larynx, therefore speech is physiologically impossible
+- lower respiratory tract
+    - bronchial tree
+        - right and left bronchus (bronchi)
+            - right bronchus is larger diameter and more vertical in descent (foreign objects tend to follow right bronchus)
+            - left bronshus is smaller diameter and more horizontal in position
+        - bronchioles
+            - terminal bronchioles (alveolar ducts)
+        - alveoli (alveolus)
+        - pulmonary capilary (diffusion of oxygen and carbon dioxide)
+            - surfactant - reduces surface tension; prevents collapsing (atelectasis)
+- mechanics of breathing
+    - thoracic cavity (sternum, ribs, thoracic vertebrae)
+        - mediastinum (interpleural space)
+            - heart
+            - great vessels (proximal aorta, proximal superior and proximal inferior vena cava)
+            - lungs (apex is superior, base is inferior at diaphragm)
+                - right lung (three lobes)
+                - left lung (two lobes)
+                - pulmonary arteries (deoxygenated blood) - from right ventricle of heart
+                - pulmonary veins (oxygenated blood) - to left atrium of heart
+            - visceral pleura (serous membrane) deep to, and parietal pleura superficial to
+                - pleural cavity (negative pressure)
+                    - pleural effusion - when too much serous fluid is produced in pleural cavity; distended pleural space and pressure on lungs
+                        - thoracentesis to remove fluid
+    - respiratory movements and ranges
+        - one respiration = one inspiration and one expiration
+            - inspiration - 2 seconds
+            - expiration - 3 seconds
+        - room air (21% oxygen)
+        - exhaled air (16% oxygen, 3.5% carbon dioxide)
+        - normal respiration rate is 14 to 20 breaths/minute
+            - 40 to 60 for newborn
+            - 22 to 24 for early school-age child
+            - 20 to 22 for teenager
+            - rates are higher for women than men
+        - assessment - perform without patient's awareness to avoid altered breathing patterns
+    - regulation of respiration
+        - nervous control
+            - medulla oblongata
+            - pons
+            - chemoreceptors in carotid artery and aorta (carotid and aortic bodies)
+                - oxygen level, carbon dioxide level, blood acidity
+                - CO<sub>2</sub> is carried in blood stream as carbonic acid
+                - CO<sub>2</sub> stimulates respiration
+                - normal pH is 7.35 to 7.45
