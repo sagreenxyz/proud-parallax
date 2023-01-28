@@ -1,5 +1,215 @@
 # Drug Therapy for Upper Respiratory Diseases
 
+- Actions and Uses
+    - Antihistamines (H<sub>1</sub>-Receptor Antagonists)
+        - allergic rhinitis
+            - itching (nasal, conjunctival), sneezing, rhinorrhea, lacrimation
+            - do not reduce nasal congestion
+    - Decongestants (Alpha-Adrenergic Stimulants)
+        - vasoconstriction of nasal mucosa
+        - counteract sedation of antihistamines
+    - Antiinflammatory Agents
+        - corticosteroids
+        - cromolyn sodium
+        - intranasally administered for mild to moderate allergic rhinitis
+        - too slow acting to be of use in common cold
+- Nursing Implications
+    - nasal congestion, allergic rhinitis, and sinusitis
+    - medications may be contraindicated with hypertension, glaucoma, asthma, and prostatic hyperplasia
+    - assessment
+        - frequency of sneezing or coughing
+        - hoarseness
+        - nasal congestion
+        - nasal secretions
+            - watery or viscous
+            - color
+        - onset
+        - prior history of allergies
+            - what allergens
+            - seasonal or perineal
+            - environmental exposure
+        - exposure to others with common cold or upper respiratory tract infections
+        - pain or discomfort
+            - areas affected
+            - degree of pain
+        - history of treatment
+            - medicines and their effectivenesses
+            - skin testing to identify allergen
+            - pain relief - how and degree of relief
+        - history of concurrent medical problems
+            - glaucoma
+            - prostatic hyperplasia
+            - asthma
+            - hypertension
+            - diabetes mellitus
+    - patient education
+        - adequate rest
+        - hydration
+        - personal hygiene (handwashing)
+        - medications and expectations
+        - when to consult healthcare provider
+        - what responses to report to provider
+            - escalation of symptoms
+            - pain
+            - fever with sinusitis
+        - when to take medication
+            - 45 to 60 minutes before allergen exposure
+            - proper administration technique
+        - monitor temperature, pulse, respirations and blood pressure
+    - health maintenance
+        - nonadherence risks
+        - cooperation and understanding needed
+            - medication name
+            - dose
+            - route
+            - timing
+            - common adverse effects
+            - serious adverse effects
+        - pt taking antihypertensives should not take decongestants (elevates blood pressure)
+
 ## Sympathomimetic Decongestants
+- actions
+    - stimulate alpha-adrenergic receptors of nasal mucous membranes
+    - vasoconstriction
+    - shrinkage of engorged turbinates and mucous membranes
+    - promotes sinus drainage
+    - improves air passage
+    - relieves symptoms of stuffiness and obstruction
+    - Basic Pharmacology for Nurses - Table 29-1 Nasal Decongestants
+        - epinephrine
+        - naphazoline
+        - oxymetazoline
+        - phenylephrine
+        - pseudoephedrine
+        - tetrahydrozoline
+        - xylometazoline
+- uses
+    - decongestants - common cold rhinitis and allergic rhinitis (counteracts antihistamine sedation)
+        - topical forms
+            - have essentially no systemic effects
+            - no effect on conjunctivitis
+            - can cause rhinitis medicamentosa (rebound swelling)
+        - alpha-adrenergic agents
+            - can stimulate receptors in other body parts
+                - hypertension
+                - hyperthyroidism
+                - diabetes mellitus
+                - cardiac disease
+                - glaucoma (increased intraocular pressure)
+                - prostatic hyperplasia
+        - pseudoephedrine restrictions
+            - methamphetamine production
+    - antihistamines - allergic rhinitis
+- therapeutic outcome
+    - reduced nasal congestion
+    - easier breathing
+- nursing implications
+    - premedication assessment
+        - pmh for hypertension, hyperthyroidism, diabetes mellitus, cardiac dysrhythmias, glaucoma, or prostatic hyperplasia (urinary retention)
+    - availability, dosage and administration
+    - common adverse effects
+        - respiratory
+            - mild nasal irritation
+    - serious adverse effects
+        - urinary retention
+            - prostatic hyperplasia
+                - urinary partial obstruction
+                - dose related and will resolve with drug metabolism
+                - use topical instead of oral routes (topical is not significantly systemic)
+        - hypertension
+            - excessive use significantly increases hypertension
+            - continually monitor blood pressure
+    - drug interactions
+        - enhance toxicity
+            - monoamine oxidase inhibitors
+                - tranylcypromine
+                - phenelzine
+                - isocarboxazid
+            - significant hypertension
+        - reduced antihypertensive activity
+            - metholdopa
+            - reserpine
 ## Antihistamines
+- actions
+    - compete with allergy-liberated histamine for H<sub>1</sub>-receptor sites
+        - arterioles
+        - capillaries
+        - secretory glands of mucous membranes
+    - do not prevent histamine release, but reduce symptoms when antihistamine concentration exceeds histamine concentration at receptor sites
+        - therefore more effective if taken before histamine is released or when symptoms first appear (prodromal stage)
+- uses
+    - allergic rhinitis
+    - allergic conjunctivitis
+    - rhinorrhea
+    - lacrimation
+    - nasal pruritis
+    - conjunctival pruritis
+    - sneezing
+    - antihistamines do not relieve nasal congestion
+    - Basic Pharmacology for Nurses - Table 29.2 Antihistamines
+        - azelastine
+        - cetirizine
+        - chlorpheniramine maleate
+        - clemastine fumarate
+        - cyproheptadine hydrochloride
+        - desloratadine
+        - diphenhydramine hydrochloride
+        - fexofenadine
+        - ipratropium
+        - levocetirizine
+        - loratadine
+        - olopatadine
+        - promethazine hydrochloride
+            - a phenothiazine with antihistaminic properties
+        - doxylamine
+    - note that if sedation is not symptomatic, cognitive impairment can be without pt awareness (attention, memory, coordination, psychomotor performance)
+    - if productive cough becomes non-productive, increase hydration and discontinue antihistamine
+- side effects
+    - dry mouth
+    - stuffy nose
+    - blurred vision
+    - constipation
+    - urinary retention
+- common adverse effects
+    - sedation
+- therapeutic outcome
+    - reduced allergic rhinitis symptoms
+- nursing implications
+    - premedication assessment
+        - glaucoma
+        - prostatic hyperplasia
+        - asthma
+        - urinary pattern (male over age 55)
+        - safety in work environment, permits antihistamine
+        - individualize assessment based on underlying pathology (hay fever, dermatologic reaction, drug hypersensitivity, rhinitis, transfusion reactions)
+    - availability, dosage, and administration
+    - common adverse effects
+        - neurologic
+            - sedation (tolerance may be possible over time)
+            - cognitive impairment (even when non-sedating)
+                - memory
+                - coordination
+                - psychomotor performance
+        - respiratory
+            - drying effects
+                - cough productivity and sputum production (impairs expectoration)
+                - maintain 8oz water intake daily
+        - anticholinergic effects
+            - blurred vision
+            - constipation
+            - urinary retention
+            - dry mouth, throat, nose mucosa
+    - serious adverse effects
+        - urinary retention
+            - prostatic hyperplasia
+                - urinary partial obstruction
+                - particularly with first-generation antihistamines (diphenhydramine)
+                - eliminated with topical antihistamines (azelastine) or second-generation antihistamines (loratadine, desloratadine, fexofenadine)
+    - drug interactions
+        - central nervous system depressants will potentiate sedative effects of antihistamines
+            - sleep aids
+            - analgesics
+            - tranquilizers
+            - alcohol
+
 ## Respiratory Antiinflammatory Agents

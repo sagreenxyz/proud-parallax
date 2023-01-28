@@ -86,9 +86,8 @@
     - laryngitis - hoarseness
     - otitis media - infection of the middle ear (vestibule)
     - conjunctivitis = watery eyes
-
-
-
-
-
-
+---
+- decongestants are alpha-adrenergic agonists
+    - common adverse effects - hypertension, urinary retention
+- antihistamines are H<sub>1</sub>-receptor blockers
+    - common adverse effects - sedation
