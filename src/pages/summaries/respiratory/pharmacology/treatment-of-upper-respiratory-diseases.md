@@ -1,5 +1,53 @@
 # Treatment of Upper Respiratory Diseases
 
 - common cold
+    - tx limited to symptoms of rhinitis
+        - and when present, pharyngitis and laryngitis
+        - preventing spread to others
+        - preventing complications secondary to primary infection
+        - decongestants (sympathomimetic amines)
+            - the most effective agent for nasal congestion and rhinorrhea
+            - adverse risks for those with
+                - diabetes mellitus
+                - hypertension
+                - ischemic heart disease
+        - antihistamines (H<sub>1</sub>-receptor antagonists)
+            - some benefit possible in older children, adolescents, and adults
+            - paradoxical nervous system stimulation can occur in young children and older adults
+            - urinary retention
+                - caution if enlarged prostate
+        - analgesics, antipyretics, expectorants, and antitussive agents
+            - depends on presence of fever, pharyngitis, or cough
+        - laryngitis
+            - rest vocal cords
+            - inhale cool mist vapor several times daily to humidify the larynx
+            - lozenges and gargles are not useful - do not reach larynx
 - allergic rhinitis
+    - tx
+        - identify allergen(s) - skin testing
+        - avoid exposure - lifestyle modifications/restrictions
+        - antihistamines
+        - decongestants
+        - intranasal corticosteroid antiinflammatory agents
+        - saline nasal sprays
+        - as tolerated, vigorous exercise
+            - 15-30 minutes once or twice daily
+            - increases sympathetic output, inducing vasoconstriction
+        - mild allergic rhinitis tx with 2<sup>nd</sup> generation antihistamines
+            - loratadine
+            - desloratadine
+            - cetirizine
+            - fexofenadine
+            - or, nasal corticosteroid alone (if moderate to severe, use in conjunction with 2<sup>nd</sup> generation antihistamine)
+        - immunotherapy
+            - if symptoms uncontrollable otherwise, or only partially controlled
+            - or if complicated by asthma or sinusitis
 - rhinitis medicamentosa
+    - best tx is prevention
+    - awareness of possibility is needed teaching
+    - complete withdrawal with need to tolerate symptoms for a week or more
+        - saline nasal spray can help moisturize irritated nasal tissues
+        - nasal steroids can take several days to reduce inflammation and congestion
+        - one technique is to have pt clear one nostril while continuing in the other
+            - saline or corticosteroid nasal spray in untreated nostril possible
+            - then complete withdrawal
