@@ -287,3 +287,6 @@
 
 [Common Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/common-upper-respiratory-diseases)
 
+[Treatment of Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/treatment-of-upper-respiratory-diseases)
+
+[Drug Therapy for Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/drug-therapy-for-upper-respiratory-diseases)
