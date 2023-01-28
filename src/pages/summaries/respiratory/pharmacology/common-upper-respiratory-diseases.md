@@ -1,0 +1,56 @@
+# Common Upper Respiratory Diseases
+- rhinitis
+    - inflammation of the nasal mucous membranes
+    - sneezing, nasal discharge, nasal congestion
+    - acute or chronic based on duration of signs and symptoms
+    - acute
+        - common cold (viral infection - rhinoviruses and coronaviruses are most common cause)
+            - nasal congestion
+                - engorgement of nasal blood vessels
+                - swelling of nasal turbinates
+                - pharyngitis - mildly sore (sratchy) throat
+                - laryngitis - hoarseness
+                - headache, malaise, chills, fever
+            - complications
+                - bacterial sinusitis
+                - otitis media (vestibule infection)
+        - bacterial infection
+        - foreign body
+        - rhinitis medicamentosa - drug-induced congestion
+    - chronic
+        - allergic rhinitis
+            - allergic reaction from previous exposure of allergens (antigen detection) and antibody development
+            - histamine release
+                - reacts with histamine-1 (H<sub>1</sub> receptors)
+                    - arterioles and capillaries in region dialate - edematous
+                    - capillaries become more permeable; extracellular fluid accumulation - edema
+                    - nasal (rhinirrhea), lacrimal (conjunctivitis), and bronchial secretions
+                    - pruitis of palate, ears, and eyes
+                    - can trigger acute asthma attacks for those with asthma
+                - severe allergic reactions
+                    - extensive arteriolar dilation
+                    - hypotension
+                    - flushed and edematous skin
+                    - urticaria (hives)
+                    - broncial constriction and possible spasms
+                    - dyspnea
+                    - copius amounts of pulmonary secretions
+                    - copius amounts of gastric secretions
+            - seasonal or perennial (year-round)
+                - treatment is symptomatic
+                - treatment can be prophylactic
+                - without treatment
+                    - thickening of mucosal epithelium
+                    - loss of cilia
+                    - loss of smell
+                    - recurrent sinusitis
+                    - recurrent otitis media
+                    - growth of connective tissue
+                    - development of nasal or sinus polyps
+                        - aggravate rhinitis
+                        - secondary infections
+        - nonallergic perenial rhinitis
+        - chronic sinusitis
+        - deviated septum
+    - rhinitis medicamentosa
+        - overuse of topical decongestants causing rebounding nasal secretions

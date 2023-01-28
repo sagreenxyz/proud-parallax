@@ -1,0 +1,20 @@
+# Upper Respiratory Tract Anatomy and Physiology
+- nose
+    -functions (olfactory and respiratory)
+- turbinates - increase surface area; dense with blood vessels - warms and humidifies air
+- sinuses
+    - goblet cells produce mucus
+    - cilia in posterior two-thirds of nasal passages, sweep mucus towards nasopharynx and pharynx (expectorated or swallowed)
+- nasopharynx
+- pharynx
+- tonsils
+- Eustachian tubes
+- larynx
+- innervated by autonomic nervous system
+    - cholinergic stimulation - vasodilation, secretory glands producing mucous and serous secretions
+    - sympathetic (alpha-adrenergic) stimulation - vasoconstriction
+- paranasal sinuses
+- pharyngeal tonsils (lymphoid); known as adenoids when enlarged
+    - immunoglobulins for defense of upper airway
+- sneezing - physiologic reflex to clear nasal passages
+- coughing - physiologic reflex to clear lower respiratory airway
