@@ -33,7 +33,7 @@
 - Chapter 29 Drugs Used to Treat Upper Respiratory Disease
     - [x] [Upper Respiratory Tract Anatomy and Physiology](/proud-parallax/summaries/respiratory/pharmacology/upper-respiratory-tract-anatomy-and-physiology)
     - [x] [Common Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/common-upper-respiratory-diseases)
-    - [ ] [Treatment of Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/treatment-of-upper-respiratory-diseases)
+    - [x] [Treatment of Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/treatment-of-upper-respiratory-diseases)
     - [ ] [Drug Therapy for Upper Respiratory Diseases](/proud-parallax/summaries/respiratory/pharmacology/drug-therapy-for-upper-respiratory-diseases)
     - [ ] Get Ready for the NCLEX@ Examination!
 - Chapter 30 Drugs Used to Treat Lower Respiratory Disease
